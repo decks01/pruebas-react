@@ -4,6 +4,9 @@
     color: white;
     border-radius: 10px;
 }
+.bnt-black:hover{
+   
+}
 
 .bnt-yellow{
     padding: 5px;
@@ -30,6 +33,11 @@
     border-radius: 10px;
 }
 .bnt{
-width: 100px;
-height: auto;
+    width: 100px; 
+    height: auto;
+    border: 0px;
 }
+.bnt:hover{
+    opacity: .8;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.288);
+    }

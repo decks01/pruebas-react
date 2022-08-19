@@ -6,7 +6,7 @@ function Button  ( props ) {
     
     return (
         <>  
-            <button className={`bnt bnt-${props.class}`} >{props.name}</button>
+            <button style={{width: `${props.width}px`, height: `${props.height}px`}} className={`bnt bnt-${props.class}`} >{props.name}</button>
             
  
         </>

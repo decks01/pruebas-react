@@ -7,7 +7,7 @@ const Children2 = () => {
         <ComponentsRender>
             <div>
                 <div>Soy children 2</div>
-                <Button  name={"hola"} class="black"/>
+                <Button  width={"300"} height={"50"} name={"holasadas"} class="yellow"/>
                
                
             </div>
