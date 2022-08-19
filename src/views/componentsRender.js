@@ -5,7 +5,7 @@ function Components({children}) {
         <div>
             <div>Estoy renderizando el children</div>
             <div>
-                {children}
+                {children ? children :<div> No esta el children</div>}
             </div>
         </div>
     );
