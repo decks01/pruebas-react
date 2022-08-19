@@ -1,0 +1,35 @@
+.bnt-black{
+    padding: 5px;
+    background-color: rgb(49, 49, 38);
+    color: white;
+    border-radius: 10px;
+}
+
+.bnt-yellow{
+    padding: 5px;
+    background-color: rgb(221, 235, 96);
+    color: white;
+    border-radius: 10px;
+}
+.bnt-blue{
+    padding: 5px;
+    background-color: rgb(96, 140, 235);
+    color: white;
+    border-radius: 10px;
+}
+.bnt-grey{
+    padding: 5px;
+    background-color: rgb(96, 235, 138);
+    color: white;
+    border-radius: 10px;
+}
+.bnt-green{
+    padding: 5px;
+    background-color: rgb(96, 235, 200);
+    color: white;
+    border-radius: 10px;
+}
+.bnt{
+width: 100px;
+height: auto;
+}
