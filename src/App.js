@@ -19,9 +19,9 @@ function App() {
       <BrowserRouter>
       <Header />
         <Routes>
-          <Route path="/" element={<ComponentsRender />} />
+          <Route path="/children2" element={<ComponentsRender />} />
           <Route path="/children" element={<Children />} />
-          <Route path="/children2" element={<Children2 />} />
+          <Route path="/" element={<Children2 />} />
         </Routes>
       <Footer />
     </BrowserRouter>
